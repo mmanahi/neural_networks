@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="numbers_handwirting_recognizer_neural_network.py">
+    <Compile Include="handwritten_numbers_neural_network.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="simple_neural_network.py" />
@@ -34,8 +34,8 @@
     <Content Include=".gitignore">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="dataset\mnist_test.csv" />
-    <Content Include="dataset\mnist_train.csv" />
+    <Content Include="dataset\mnist_test_10.csv" />
+    <Content Include="dataset\mnist_train_100.csv" />
     <Content Include="README.md" />
     <Content Include="w1.txt" />
     <Content Include="w2.txt" />
