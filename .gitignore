@@ -1,1 +1,4 @@
-# ignore csv files
+# ignored files
+*.pyproj
+*.pyproj.user
+*.sln
