@@ -1,0 +1,6 @@
+# ignore csv files
+mnist_test.csv
+mnist_train.csv
+*.csv
+
+/dataset
